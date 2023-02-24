@@ -20,4 +20,4 @@ client.on("message", msg => {
   }
 })
 
-client.login(MTA3ODc1MTIxNDg2MDI1OTM1OA.Gy9hCN.VPeihamCEW6PmFT89G0v1Oe7RH8ldowaecu9-k)
+client.login('MTA3ODc1MTIxNDg2MDI1OTM1OA.GtVURG.-LdoqQbPsBNs_t3_EbK_RVhNhH5s3O3oGopvBc')
